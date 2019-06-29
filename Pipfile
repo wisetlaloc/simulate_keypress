@@ -16,4 +16,4 @@ python_version = "3.7"
 [scripts]
 start = "python app.py"
 lint = "pylint ."
-fix = "autopep8 -ivr"
+fix = "autopep8 -ivr ."
