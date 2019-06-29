@@ -1,6 +1,6 @@
 # Simulate Keypress
 Pythonでのマウス／キーボード操作のサンプルレポジトリです。
-英語版のREADME(説明書)は[こちら](../README.md)。
+英語版のREADME(説明書)は[こちら](README.md)。
 
 ## ツールのバージョン等
 Python 3.7.3

@@ -1,6 +1,6 @@
 # Simulate Keypress
 This is a simulate keypress sample repo with few (personal) useful tools.
-日本語版のREADME(説明書)は[こちら](../README_JP.md)。
+日本語版のREADME(説明書)は[こちら](README_JP.md)。
 
 ## Dependencies
 Python 3.7.3
